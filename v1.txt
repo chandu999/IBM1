@@ -1,3 +1,7 @@
 hello 
 chandra
+<<<<<<< HEAD
 how r jgjhgjjjhjsbjhdshu
+=======
+how r jgjhgjhu
+>>>>>>> 90d18a3... hghghhg
